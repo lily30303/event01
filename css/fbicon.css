@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+/*fb icon start*/
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+	text-decoration:none;
+}
+#fb_icon{
+	position: absolute;
+	float:left;
+	top:10px;
+	width:100%;
+	left:35.33%;
+	/*height:20px;color:#000;*/
+	}	
+/*fb icon end*/
+
+.fb-comments, .fb-comments iframe[style] {
+    width: 100% !important;
+	height:100% !important;
+}
+
+.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+    width: 100% !important;
+}
+
+.fbc{
+	line-height:32px;
+	text-justify: inter-ideograph;
+}
+/*.fbc ul li{
+	list-style:none !important;
+}
+.fbc ul{
+	list-style:none !important;
+}*/
