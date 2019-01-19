@@ -8,7 +8,8 @@
 body {
    display:block;
     overflow-x: hidden;
-	background-image:url("http://s.eshop.fayaque.com.tw/act/event_2017picnic/img/picnic-bg.jpg");
+	/* background-image:url("http://s.eshop.fayaque.com.tw/act/event_2017picnic/img/picnic-bg.jpg"); */
+    background-color: #ffffff;
 	background-size:cover;
 	background-repeat: no-repeat;
 	}
@@ -39,11 +40,11 @@ a.active {
 }
 
 header {
-background:url("http://s.eshop.fayaque.com.tw/act/event_2017picnic/img/picnic-bg.jpg")center 0px no-repeat ;
+background:url("headerbg.jpg")center 0px no-repeat ;
 background-size:cover;
 overflow-y: hidden;
     text-align: right;
-    color: #fff;
+    color: ;
 	/*overflow:hidden;*/
 }
 
